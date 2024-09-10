@@ -1,0 +1,3 @@
+[submodule "Project/IcGame"]
+	path = Project/IcGame
+	url = https://github.com/B-LINK/IcGame.git
